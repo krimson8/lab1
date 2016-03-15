@@ -1,0 +1,13 @@
+Script started on 2016年03月15日 (週二) 13時33分33秒
+]0;F74047044@2015cpp: ~F74047044@2015cpp:~$ whoami; pwd
+F74047044
+/home/F74047044
+]0;F74047044@2015cpp: ~F74047044@2015cpp:~$ git config -l
+user.name=krimson8
+user.email=krimson8@gmail.com
+]0;F74047044@2015cpp: ~F74047044@2015cpp:~$ git clone https://github.com/krimson8/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;F74047044@2015cpp: ~F74047044@2015cpp:~$ exit
+
+Script done on 2016年03月15日 (週二) 13時34分01秒
